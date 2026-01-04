@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<pmd-cpd xmlns="https://pmd-code.org/schema/cpd-report"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         pmdVersion="7.14.0"
+         timestamp="2026-01-04T14:46:13.4130175+03:00"
+         version="1.0.0"
+         xsi:schemaLocation="https://pmd-code.org/schema/cpd-report https://pmd.github.io/schema/cpd-report_1_0_0.xsd">
+   <file path="C:\code java\Meraneh\src\main\java\maven_cours\MathTools.java"
+         totalNumberOfTokens="104"/>
+   <file path="C:\code java\Meraneh\src\main\java\maven_cours\RandomTab.java"
+         totalNumberOfTokens="144"/>
+   <file path="C:\code java\Meraneh\src\main\java\maven_cours\package-info.java"
+         totalNumberOfTokens="0"/>
+</pmd-cpd>
